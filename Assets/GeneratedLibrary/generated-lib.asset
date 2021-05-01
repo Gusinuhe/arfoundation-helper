@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: generated-lib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5483710877274617615
+  m_GuidHigh: 5594347628602903479
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4793564529315574783
+      m_GuidHigh: 16329990972159313055
+    m_SerializedTextureGuid:
+      m_GuidLow: 7414096486673044071
+      m_GuidHigh: 13538890597363297626
+    m_Size: {x: 0.1328, y: 0.1328}
+    m_SpecifySize: 1
+    m_Name: NY-ImageTracker-03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5236599784158044807
+      m_GuidHigh: 6299342936031504314
+    m_SerializedTextureGuid:
+      m_GuidLow: 14786623286621077131
+      m_GuidHigh: 8608129730334513657
+    m_Size: {x: 0.15, y: 0.07022547}
+    m_SpecifySize: 1
+    m_Name: NY-ImageTracker-02
+    m_Texture: {fileID: 0}

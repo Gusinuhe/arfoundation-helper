@@ -1,0 +1,2 @@
+c1c473ff298a42869f44e4e844c89fe2|C:\Projects\arfoundation-helper\Assets\Images\newyellow-icon.png|0.1328
+4da0a28723c248acba27866406c36b57|C:\Projects\arfoundation-helper\Assets\Images\test.jpg|0.15
